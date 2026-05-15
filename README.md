@@ -13,14 +13,6 @@
 
 ---
 
-## 📖 About
-
-[**WordHelper.me**](https://wordhelper.me/) is a collection of free word game tools powered by the official Scrabble dictionaries (SOWPODS, TWL, and Enable). Whether you're playing Scrabble, Wordle, Words With Friends, Wordfeud, or any word puzzle, these tools help you find words, check validity, and improve your game.
-
-Built with Flask and serving **60,000+ dynamically generated pages** from a **270,000+ word dictionary**.
-
----
-
 ## 🛠️ Tools
 
 | Tool | Description | Link |
@@ -57,6 +49,14 @@ Data-driven articles about Scrabble strategy, word lists, and word game tips:
 - [Complete 2-Letter Scrabble Words](https://wordhelper.me/blog/2-letter-scrabble-words)
 
 ... and 70+ more strategy guides and word lists.
+
+---
+
+## 📖 About
+
+[**WordHelper.me**](https://wordhelper.me/) is a collection of free word game tools powered by the official Scrabble dictionaries (SOWPODS, TWL, and Enable). Whether you're playing Scrabble, Wordle, Words With Friends, Wordfeud, or any word puzzle, these tools help you find words, check validity, and improve your game.
+
+Built with Flask and serving **60,000+ dynamically generated pages** from a **270,000+ word dictionary**.
 
 ## 📊 By the Numbers
 
